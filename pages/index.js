@@ -38,7 +38,7 @@ const Home = () => (
       <Box display={{ md: 'flex' }}>
         <Box flexGrow={1}>
           <Heading as="h2" variant="page-title">
-            Mochamad Pratama Mukti
+            Mpratama
           </Heading>
           <p>Anak Nolep ( Mencari sebuah Inspirasi )</p>
         </Box>
@@ -63,7 +63,7 @@ const Home = () => (
 
       <Section delay={0.1}>
         <Heading as="h3" variant="section-title">
-          Work
+          About Me
         </Heading>
         <Paragraph>
           Mpratama adalah seorang siswa kelas 12 Multimedia 2 dari sekolah SMKN 1 Driyorejo. 
@@ -113,14 +113,14 @@ const Home = () => (
         </Heading>
         <Paragraph>
           Art, Music,{' '}
-          <Link href="https://illust.odoruinu.net/" target="_blank">
-            Drawing
+          <Link href="https://194.163.183.129/" target="_blank">
+            Anime
           </Link>
-          , Playing Drums,{' '}
-          <Link href="https://500px.com/p/craftzdog" target="_blank">
-            Photography
+          , Playing Games,{' '}
+          <Link href="https://sektekomik.com/" target="_blank">
+            Komik
           </Link>
-          , Leica, Machine Learning
+          , Film
         </Paragraph>
       </Section>
 
