@@ -32,15 +32,15 @@ const Home = () => (
         textAlign="center"
         bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')}
       >
-        Hello, I&apos;m a full-stack developer based in Japan!
+        Hai, Nama saya Mochamad Pratama Mukti Dari Indonesia.
       </Box>
 
       <Box display={{ md: 'flex' }}>
         <Box flexGrow={1}>
           <Heading as="h2" variant="page-title">
-            Takuya Matsuyama
+            Mochamad Pratama Mukti
           </Heading>
-          <p>Digital Craftsman ( Artist / Developer / Designer )</p>
+          <p>Anak Nolep ( Mencari sebuah Inspirasi )</p>
         </Box>
         <Box
           flexShrink={0}
@@ -66,12 +66,11 @@ const Home = () => (
           Work
         </Heading>
         <Paragraph>
-          Takuya is a freelance and a full-stack developer based in Osaka with a
-          passion for building digital services/stuff he wants. He has a knack
-          for all things launching products, from planning and designing all the
-          way to solving real-life problems with code. When not online, he loves
-          hanging out with his camera. Currently, he is living off of his own
-          product called{' '}
+          Mpratama adalah seorang siswa kelas 12 Multimedia 2 dari sekolah SMKN 1 Driyorejo. 
+          dia adalah seorang siswa pendiam yang hobbynya suka sekali bermain hp.
+          dia adalah anak nolep yang suka menonton anime, film, manhua, manhwa, dan komik.
+          karena sudah mau lulus dia sedikit pusing memikirkan masa depan yang akan dijalaninya nanti.
+          tidak lupa dia juga mempromosikan app dari bang takuya yang bernama{' '}
           <NextLink href="/works/inkdrop">
             <Link>Inkdrop</Link>
           </NextLink>
@@ -91,22 +90,20 @@ const Home = () => (
           Bio
         </Heading>
         <BioSection>
-          <BioYear>1984</BioYear>
-          Born in Osaka (大阪), Japan.
+          <BioYear>2004</BioYear>
+          Lahir di Surabaya, Indonesia.
         </BioSection>
         <BioSection>
-          <BioYear>2010</BioYear>
-          Completed the Master&apos;s Program in the Graduate School of
-          Information Science at Nara Institute of Science and Technology
-          (奈良先端科学技術大学院大学情報科学研究科修士課程)
+          <BioYear>2016</BioYear>
+          Lulus SD
         </BioSection>
         <BioSection>
-          <BioYear>2010</BioYear>
-          Worked at Yahoo! Japan (ヤフー株式会社入社)
+          <BioYear>2019</BioYear>
+          Lulus SMP
         </BioSection>
         <BioSection>
-          <BioYear>2012 to present</BioYear>
-          Works as a freelance
+          <BioYear>2022</BioYear>
+          Kelas 12 SMKN 1 DRIYOREJO
         </BioSection>
       </Section>
 
