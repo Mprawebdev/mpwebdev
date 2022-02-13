@@ -163,11 +163,11 @@ const Home = () => (
             </Link>
           </ListItem>
           <ListItem>
-            <Link href="https://www.facebook/mochamadpratama.mukti.9" target="_blank">
+            <Link href="https://www.facebook.com/mochamadpratama.mukti.9" target="_blank">
               <Button
                 variant="ghost"
                 colorScheme="teal"
-                leftIcon={<Icon as={IoLogoInstagram} />}
+                leftIcon={<Icon as={IoLogoFacebook} />}
               >
                 @mochamadpratamamukti
               </Button>
