@@ -38,9 +38,9 @@ const Home = () => (
       <Box display={{ md: 'flex' }}>
         <Box flexGrow={1}>
           <Heading as="h2" variant="page-title">
-            Takuya Matsuyama
+            Mochamad Pratama Mukti
           </Heading>
-          <p>Digital Craftsman ( Artist / Developer / Designer )</p>
+          <p>Anak Nolep ( Wibu nolep bro )</p>
         </Box>
         <Box
           flexShrink={0}
@@ -66,12 +66,11 @@ const Home = () => (
           Work
         </Heading>
         <Paragraph>
-          Takuya is a freelance and a full-stack developer based in Osaka with a
-          passion for building digital services/stuff he wants. He has a knack
-          for all things launching products, from planning and designing all the
-          way to solving real-life problems with code. When not online, he loves
-          hanging out with his camera. Currently, he is living off of his own
-          product called{' '}
+          Mpratama adalah seorang siswa kelas 12 Multimedia 2 dari sekolah SMKN 1 Driyorejo. 
+          dia adalah seorang siswa pendiam yang hobbynya suka sekali bermain hp.
+          dia adalah anak nolep yang suka menonton anime, film, manhua, manhwa, dan komik.
+          karena sudah mau lulus dia sedikit pusing memikirkan masa depan yang akan dijalaninya nanti.
+          tidak lupa dia juga mempromosikan app dari bang takuya yang bernama{' '}
           <NextLink href="/works/inkdrop">
             <Link>Inkdrop</Link>
           </NextLink>
