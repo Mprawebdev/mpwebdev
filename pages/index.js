@@ -152,13 +152,13 @@ const Home = () => (
             </Link>
           </ListItem>
           <ListItem>
-            <Link href="https://twitter.com/craftzdog" target="_blank">
+            <Link href="https://www.instagram.com/mochamadpratamamukti/" target="_blank">
               <Button
                 variant="ghost"
                 colorScheme="teal"
-                leftIcon={<Icon as={IoLogoTwitter} />}
+                leftIcon={<Icon as={IoLogoInstagram} />}
               >
-                @craftzdog (日本語)
+                @mochamadpratamamukti
               </Button>
             </Link>
           </ListItem>
@@ -177,8 +177,8 @@ const Home = () => (
 
         <SimpleGrid columns={[1, 2, 2]} gap={6}>
           <GridItem
-            href="https://www.youtube.com/devaslife"
-            title="Dev as Life"
+            href="https://youtube.com/channel/UCyCJqetrXr52hfMFRDPMwJg"
+            title="Mpratama"
             thumbnail={thumbYouTube}
           >
             My YouTube channel
