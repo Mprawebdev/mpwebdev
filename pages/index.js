@@ -32,7 +32,7 @@ const Home = () => (
         textAlign="center"
         bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')}
       >
-        Hello, I&apos;m a full-stack developer based in Japan!
+        Hai, Nama saya Mochamad Pratama Mukti Dari Indonesia.
       </Box>
 
       <Box display={{ md: 'flex' }}>
@@ -113,14 +113,14 @@ const Home = () => (
         </Heading>
         <Paragraph>
           Art, Music,{' '}
-          <Link href="https://illust.odoruinu.net/" target="_blank">
-            Drawing
+          <Link href="https://194.163.183.129/" target="_blank">
+            Anime
           </Link>
-          , Playing Drums,{' '}
-          <Link href="https://500px.com/p/craftzdog" target="_blank">
-            Photography
+          , Playing Games,{' '}
+          <Link href="https://sektekomik.com/" target="_blank">
+            Komik
           </Link>
-          , Leica, Machine Learning
+          , Film
         </Paragraph>
       </Section>
 
